@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aweisserv
-- 👀 I’m working at SimpliRoute Chile
-- 🌱 I’m currently learning Angular
-- 💞️ Love learning new tech stuff
+- 🚀 I’m working at SimpliRoute Chile
+- 🌱 Currently learning Angular
+- 💻 Love learning new tech stuff
 
 
